@@ -1,0 +1,17 @@
+Evaluating Sports Summaries of Basketball Games
+
+We invite you to take part in our study on automatic summarization. Your task is to read two short texts which have been produced by different automatic systems, and to judge the relative quality of those two texts. This enables us to understand which system is best.
+
+Entry requirements: Attempt HITs if you are a native speaker of English or a near-native speaker who can comfortably comprehend  summary of NBA basketball games written in English.
+
+Expected duration: 1.5 minutes
+
+We are not aware of any negative consequences to your participation in this task, but please be aware that there may be occasional errors in the generated texts. As indicated by the Mechanical Turk platform, you will be paid for your efforts. We calculated the amount based on the minimum wage in the US.
+
+We remind you that participation is voluntary. You have the right to decline to participate and withdraw from the research once participation has begun, without any negative consequences, and without providing any explanation.
+
+We will not collect any personal data, beyond the information provided to us by Mechanical Turk. We aim to publish the results of this study, making the responses publicly available for future research for an indefinite period of time. However, we will ensure that any potentially identifying information (including your IP address, platform ID) will be removed from the data before it is published. Thus, everything will be fully anonymous.
+
+If you have any questions about this study, feel free to contact Emiel Van Miltenburg (C.W.J.vanMiltenburg@tilburguniversity.edu).
+
+This study was approved by the Research Ethics and Data Management Committee (REDC) at Tilburg University. If you have any remarks or complaints regarding this research, you may also contact the “Research Ethics and Data Management Committee” of Tilburg School of Humanities and Digital Sciences via tshd.redc@tilburguniversity.edu

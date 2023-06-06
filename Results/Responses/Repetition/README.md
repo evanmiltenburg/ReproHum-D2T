@@ -1,0 +1,1 @@
+The original CSV files should be placed here. We purposefully removed the CSV files to get rid of the Worker ID column in the data, which can be traced back to the workers' Amazon account. We stored the resulting files in Excel format since Pandas could not handle the newlines in some of the responses we received.

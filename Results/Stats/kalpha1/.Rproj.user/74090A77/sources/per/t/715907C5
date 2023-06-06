@@ -1,0 +1,26 @@
+{
+    "id": "715907C5",
+    "path": "~/Tilburg/Projects/ReproHum/Paper 1/Crowdsourcing/Results/Stats/kalpha1/kalpha.R",
+    "project_path": "kalpha.R",
+    "type": "r_source",
+    "hash": "3240812391",
+    "contents": "",
+    "dirty": false,
+    "created": 1686003157318.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1686003567,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1686003567760,
+    "read_only": false,
+    "read_only_alternatives": []
+}
