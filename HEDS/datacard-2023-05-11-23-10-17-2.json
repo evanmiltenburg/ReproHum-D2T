@@ -1,0 +1,1273 @@
+{
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-5": {
+        "data": {
+            "Coherence": true,
+            "Grammaticality": true,
+            "Repetition": true
+        },
+        "control": {},
+        "text": {
+            "Coherence": "5. Other (please describe)",
+            "Grammaticality": "5. Other (please describe)",
+            "Repetition": "5. Other (please describe)"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-response_aggregation": {
+        "data": {
+            "Coherence": "Using best-worst scaling.",
+            "Grammaticality": "Using best-worst scaling.",
+            "Repetition": "Using best-worst scaling."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-1": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-name": {
+        "data": {
+            "": "Emiel van Miltenburg"
+        },
+        "control": {}
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-affiliation": {
+        "data": {
+            "": "Tilburg University"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-output_aspect-1": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": true,
+            "Repetition": true
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "1. Form of output",
+            "Repetition": "1. Form of output"
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-10": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-2": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-2": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-affiliation": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-7": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-8": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_can_ask_questions-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-6": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. by an automatic random process"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-5": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-description": {
+        "data": {
+            "": "Evaluation tasks are released in batches of 50 \"Human Intelligence Tasks\" (HITs) on Mechanical Turk. For Repetition and Coherence, there is a small selection of Gold+System output pairs where Gold is clearly better than the system. If participants still prefer the system, they are excluded from carrying out HITs from later batches."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. evaluation carried out by evaluators at a place of their own choosing, e.g. online, using a paper form, etc."
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement_score": {
+        "data": {
+            "Coherence": "The original paper reported an overall score of 0.47 for all criteria. We don't know ours yet.",
+            "Grammaticality": "The original paper reported an overall score of 0.47 for all criteria. We don't know ours yet.",
+            "Repetition": "The original paper reported an overall score of 0.47 for all criteria. We don't know ours yet."
+        },
+        "control": {}
+    },
+    "heds-ethics-review_body": {
+        "data": {
+            "": "Yes, the Research Ethics and Data management committee (REDC) at the Tilburg School of Humanities and Digital sciences (TSHD) of Tilburg University."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. non-experts"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-verbatim_question": {
+        "data": {
+            "Coherence": "Coherence:  How coherent is the summary? How natural is the ordering of the facts? The summary should be well structured and well organized and have a natural ordering of the facts.",
+            "Grammaticality": "Grammaticality: Are the sentences grammatical and well-formed? The summary sentences should be grammatically correct. You should not rate the document as whole but rather whether the sentences could be written by a native speaker or by someone who is a learner and makes mistakes. Choose the more grammatical summary.",
+            "Repetition": "Avoid repetition:  Which summary is better at avoiding unnecessary repetition? Unnecessary repetition might take the form of whole sentences that are repeated, or repeated facts, or the repeated use of a phrase"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-effect_size_method": {
+        "data": {
+            "Coherence": "As per the original paper, significance is computed using a one-way ANOVA with a post-hoc Tukey HSD test.",
+            "Grammaticality": "As per the original paper, significance is computed using a one-way ANOVA with a post-hoc Tukey HSD test.",
+            "Repetition": "As per the original paper, significance is computed using a one-way ANOVA with a post-hoc Tukey HSD test."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. not previously known to authors"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-other_text": {
+        "data": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-1": {
+        "data": {
+            "Coherence": true,
+            "Grammaticality": true,
+            "Repetition": true
+        },
+        "control": {},
+        "text": {
+            "Coherence": "1. Intrinsic",
+            "Grammaticality": "1. Intrinsic",
+            "Repetition": "1. Intrinsic"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-other_text": {
+        "data": {
+            "Coherence": "Two text boxes where evaluators indicate which system is best (A or B) and which is worst (A or B).",
+            "Grammaticality": "Two text boxes where evaluators indicate which system is best (A or B) and which is worst (A or B).",
+            "Repetition": "Two text boxes where evaluators indicate which system is best (A or B) and which is worst (A or B)."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. paid (monetary compensation)"
+        }
+    },
+    "heds-sample_evaluators_design-sample-number_of_system_outputs": {
+        "data": {
+            "": "The original authors looked at the outputs of five different systems for two datasets (MLB and Rotowire). In their words, they \"divided the five competing systems into ten pairs of summaries and elicited ratings for 40 summaries (20 per dataset). Each summary pair was rated by 3 raters. This resulted in 40 summaries × 10 system pairs × 3 evaluation criteria × 3 raters, for a total of 3,600 tasks.\" However, due to a flaw in the GitHub repository provided by the authors, we don't know whether the MLB results reported in the paper are reliable. Thus we focus our efforts on the outputs for the Rotowire dataset, resulting in 1800 tasks.\n\nIn short: these are 20 summaries per system, with 4 systems and a set of Gold responses."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-description": {
+        "data": {
+            "": "\"Crowd workers\" from Mechanical Turk."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-2": {
+        "data": {
+            "Coherence": true,
+            "Grammaticality": true,
+            "Repetition": true
+        },
+        "control": {},
+        "text": {
+            "Coherence": "2. Subjective",
+            "Grammaticality": "2. Subjective",
+            "Repetition": "2. Subjective"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-1": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-2": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-4": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-output_aspect-other_text": {
+        "data": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. evaluators are required to be native speakers of the language they evaluate."
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-1": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-quality_type-2": {
+        "data": {
+            "Coherence": true,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "2. Goodness",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-9": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-other_text": {
+        "data": {
+            "": "Randomly selected, but unclear how outputs were randomly selected or not."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-2": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-5": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-quality_type-1": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": true,
+            "Repetition": true
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "1. Correctness",
+            "Repetition": "1. Correctness"
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-name": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-2": {
+        "data": {
+            "Coherence": true,
+            "Grammaticality": true,
+            "Repetition": true
+        },
+        "control": {},
+        "text": {
+            "Coherence": "2. Relative",
+            "Grammaticality": "2. Relative",
+            "Repetition": "2. Relative"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-6": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-input_languages-41": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "41. English"
+        }
+    },
+    "heds-ethics-special_category_data": {
+        "data": {
+            "": "No."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_can_ask_questions-3": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "3. evaluators are asked for feedback and/or comments after the evaluation, e.g. via an exit questionnaire or a comment box"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-list_or_range": {
+        "data": {
+            "Coherence": "A better, B better",
+            "Grammaticality": "A better, B better",
+            "Repetition": "A better, B better"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-task_description": {
+        "data": {
+            "Coherence": "N/A",
+            "Grammaticality": "N/A",
+            "Repetition": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-participant_criterion_name": {
+        "data": {
+            "Coherence": "Coherence",
+            "Grammaticality": "Grammaticality",
+            "Repetition": "Unnecessary repetition"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-recruitment_method": {
+        "data": {
+            "": "Evaluators are recruited through Mechanical Turk. "
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-3": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-email": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-7": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-2": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-tasks-9": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "9. data-to-text generation"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_place_of_choosing": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. evaluators do not include any of the authors"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement_score": {
+        "data": {
+            "Coherence": "N/A",
+            "Grammaticality": "N/A",
+            "Repetition": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-what_evaluators_see-link": {
+        "data": {
+            "": "https://github.com/evanmiltenburg/ReproHum-1-Data2Text"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-training_practice": {
+        "data": {
+            "": "Evaluators are provided with a definition of the quality criterion, and one example that is part of the task description. There is no practice."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion": {
+        "data": {},
+        "control": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": true
+        },
+        "text": {}
+    },
+    "heds-criteria-criterion-criteria-quality_type-other_text": {
+        "data": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-quality_type-3": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-3": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-paper_and_resources-paper-link": {
+        "data": {
+            "": "ReproHum: pre-experiment record"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-other_text": {
+        "data": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        },
+        "control": {}
+    },
+    "heds-ethics-personal_data": {
+        "data": {
+            "": "No."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-output_languages-41": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "41. English"
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-8": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-3": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-2": {
+        "data": {
+            "Coherence": true,
+            "Grammaticality": true,
+            "Repetition": true
+        },
+        "control": {},
+        "text": {
+            "Coherence": "2. no",
+            "Grammaticality": "2. no",
+            "Repetition": "2. no"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-collection_method": {
+        "data": {
+            "": "Mechanical Turk"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-3": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-other_text": {
+        "data": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-other_text": {
+        "data": {
+            "Coherence": "Krippendorff's alpha.",
+            "Grammaticality": "Krippendorff's alpha.",
+            "Repetition": "Krippendorff's alpha."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-number_of_evaluators": {
+        "data": {
+            "": "206"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-output_aspect-2": {
+        "data": {
+            "Coherence": true,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "2. Content of output",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-what_evaluators_see-description": {
+        "data": {
+            "": "Evaluators are first shown a page with the information letter and a task description that includes a definition of the construct of interest (repetition, grammaticality, or coherence), and an example of the task they are going to carry out. After continuing, they are asked to provide their informed consent. Having done this, they are shown two summaries, with the question which of the two summaries is better in terms of the construct of interest."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. no"
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-1": {
+        "data": {
+            "Coherence": true,
+            "Grammaticality": true,
+            "Repetition": true
+        },
+        "control": {},
+        "text": {
+            "Coherence": "1. Quality of output in its own right",
+            "Grammaticality": "1. Quality of output in its own right",
+            "Repetition": "1. Quality of output in its own right"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-paper_and_resources-resources-links": {
+        "data": {
+            "": "Main GitHub repository for the paper: https://github.com/ratishsp/data2text-macro-plan-py\nSecond repository for the human evaluation studies: https://github.com/ratishsp/data2text-human-evaluation\n"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-other_text": {
+        "data": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-value": {
+        "data": {
+            "": "Each system receives 20 scores, corresponding to their performance rank for each summary. These values are compared using a one-way ANOVA*, and then (upon finding a significant result) the authors carry out a Tukey HSD test. For the ANOVA, I have computed the power as follows in R using the pwr library (5 groups, medium effect size of 0.3, alpha of 0.05, group size of 20):\n\npwr.anova.test(k=5,f=.3,sig.level=.05,n=20)\n\n     Balanced one-way analysis of variance power calculation \n\n              k = 5\n              n = 20\n              f = 0.3\n      sig.level = 0.05\n          power = 0.6386141"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-3": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-1": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-other_text": {
+        "data": {
+            "Coherence": "2",
+            "Grammaticality": "2",
+            "Repetition": "2"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-3": {
+        "data": {
+            "Coherence": true,
+            "Grammaticality": true,
+            "Repetition": true
+        },
+        "control": {},
+        "text": {
+            "Coherence": "3. relative quality estimation (including ranking)",
+            "Grammaticality": "3. relative quality estimation (including ranking)",
+            "Repetition": "3. relative quality estimation (including ranking)"
+        }
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-method": {
+        "data": {
+            "": "Balanced one-way analysis of variance power calculation "
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-4": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-paper_and_resources-paper-experiment_identification": {
+        "data": {
+            "": "The second human evaluation experiment, starting on page 520: \"We also conducted a second study to evaluate the quality of the generated summaries...\" until the end of Section 6."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-characteristics": {
+        "data": {
+            "": "Per the original authors: \"we had opened the HITs only for workers from English speaking countries including I think US, UK, Canada, NZ, Aus and Ireland.\"\nDuring the experiment, there are multiple exclusion triggers. Only participants who are not flagged using these triggers are able to carry out HITs from later batches. Their earlier responses are kept; not replaced by new ones."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-other_text": {
+        "data": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-1": {
+        "data": {
+            "Coherence": true,
+            "Grammaticality": true,
+            "Repetition": true
+        },
+        "control": {},
+        "text": {
+            "Coherence": "1. yes",
+            "Grammaticality": "1. yes",
+            "Repetition": "1. yes"
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-2": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-ethics-impact_assessments": {
+        "data": {
+            "": "No."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-1": {
+        "data": {
+            "Coherence": true,
+            "Grammaticality": true,
+            "Repetition": true
+        },
+        "control": {},
+        "text": {
+            "Coherence": "1. Discrete",
+            "Grammaticality": "1. Discrete",
+            "Repetition": "1. Discrete"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-participant_criterion_definiiton": {
+        "data": {
+            "Coherence": "How coherent is the summary? How natural is the ordering of the facts? The summary should be well structured and well organized and have a natural ordering of the facts.",
+            "Grammaticality": "Grammaticality: Are the sentences grammatical and well-formed? The summary sentences should be grammatically correct. You should not rate the document as whole but rather whether the sentences could be written by a native speaker or by someone who is a learner and makes mistakes. Choose the more grammatical summary.",
+            "Repetition": "Avoid repetition:  Which summary is better at avoiding unnecessary repetition? Unnecessary repetition might take the form of whole sentences that are repeated, or repeated facts, or the repeated use of a phrase"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-script": {
+        "data": {
+            "": "https://cran.r-project.org/web/packages/pwr/pwr.pdf"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-5": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-output_aspect-3": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-1": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_can_ask_questions-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. evaluators are told they can ask any questions during/after receiving initial training/instructions, and before the start of the evaluation"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-11": {
+        "data": {
+            "Coherence": false,
+            "Grammaticality": false,
+            "Repetition": false
+        },
+        "control": {},
+        "text": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluator_freedom-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. evaluators have to complete each individual assessment within a set time"
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-email": {
+        "data": {
+            "": "C.W.J.vanMiltenburg@tilburguniversity.edu"
+        },
+        "control": {}
+    },
+    "heds-system-input_types-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. raw/structured data"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-other_text": {
+        "data": {
+            "Coherence": "",
+            "Grammaticality": "",
+            "Repetition": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. automatic quality checking methods are used during/post evaluation"
+        }
+    },
+    "heds-system-output_types-6": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "6. text: multiple sentences"
+        }
+    },
+    "heds-system-tasks-17": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "17. end-to-end text generation"
+        }
+    },
+    "heds-system-output_types-7": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    }
+}
